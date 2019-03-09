@@ -41,7 +41,10 @@
     "react": "~16.8.0",
     "react-dom": "~16.8.0",
     "react-router-dom": "~4.4.0-beta.6",
-    "rimraf": "~2.6.3"
+    "rimraf": "~2.6.3",
+    "typescript": "^3.3.3333",
+    "@types/react": "^16.8.7",
+    "@types/react-dom": "^16.8.2"
   },
   "peerDependencies": {
     "@babel/runtime": "~7.2.0",
