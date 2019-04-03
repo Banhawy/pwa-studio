@@ -240,7 +240,8 @@ module.exports = async function(env) {
                         },
                         output: {
                             ecma: 7,
-                            semicolons: false
+                            semicolons: false,
+                            comments: false
                         },
                         keep_fnames: true
                     }
